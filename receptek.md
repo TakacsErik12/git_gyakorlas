@@ -1,3 +1,4 @@
 # Kedvenc receptek
 
-- Palacinta: Lekváros és kakaós
+- Palacinta: sós-túró és hortobágyi
+- Gulyásleves
