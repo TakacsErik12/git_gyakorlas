@@ -1,3 +1,4 @@
 # Kedvenc receptek
 
-- Palacinta: Lekváros és kakaós
+- Palacinta: Lekváros, kakaós és mogyorókrémes
+- Madártej (extra vaníliával)
